@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Conrado</h1>
-<h3 align="center">"Welcome to my GitHub Profile! 🚀 I'm a passionate Computer Science student eager to explore the endless realms of technology. Here, you'll find my journey through coding challenges, personal projects, and collaborative endeavors. Join me as I delve into the exciting world of algorithms, data structures, software development, and more. Let's learn, grow, and innovate together!"</h3>
+<h3 align="center">"Bem Vindo! Sou apaixonado por tecnologia, inovação e negócios digitais. Gosto de transformar ideias em projetos práticos e compartilhar conhecimento. Aqui você vai encontrar meus projetos, estudos e experimentos!"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
